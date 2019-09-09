@@ -162,7 +162,7 @@ except ImportError:
 
 INSTALLED_APPS = INSTALLED_APPS + MODULES
 
-BASEURL = 'https://egc-m4-lucdelfue.herokuapp.com/'
+BASEURL = 'https://egc-m4-lucdelfue.herokuapp.com'
 
 APIS = {}
 
